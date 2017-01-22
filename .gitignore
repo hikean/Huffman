@@ -1,0 +1,10 @@
+.huff.txt
+.pyc
+.sh
+cpp/CMakeFiles/*
+cpp/CMakeCache.txt
+cpp/Makefile
+cpp/huff
+cpp/*.cmake
+test_out
+test_out/*
